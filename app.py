@@ -3,6 +3,9 @@ import numpy as np
 import pandas as pd
 
 
+##adding this line to check commit and ec2 deployment
+
+
 from sklearn.preprocessing import StandardScaler
 from src.pipeline.predict_pipeline import CustomData,PredictPipeline
 
